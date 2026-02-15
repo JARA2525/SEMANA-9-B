@@ -1,5 +1,5 @@
 # Archivo inventario.py del sistema de inventarios
-from modelos import Producto
+from MODELOS.producto import Producto
 
 class Inventario:
     def __init__(self):

@@ -4,8 +4,9 @@
 # Universidad: TICS
 # ==========================================
 
-from modelos import Producto
-from servicios import Inventario
+from MODELOS.producto import Producto
+from SERVICIOS.inventario import Inventario
+
 
 inv = Inventario()
 
